@@ -1,3 +1,50 @@
-h2 {
-	color: green;
+section {
+	margin-bottom: 50px;
 }
+
+
+.container {
+	width: 1052px;
+	margin: 0 auto;
+/*	border: 2px solid red;*/
+}
+.p1 {
+	width: 300px;
+	font-size: 32px;
+	margin-right: 30px;
+	display: inline-block;
+	vertical-align: top;
+
+	text-indent: 50px;
+
+	font-family: "Roboto", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+  	text-transform: uppercase;
+}
+
+.p2 {
+	width: 300px;
+	margin-right: 30px;
+	display: inline-block;
+	vertical-align: top;
+
+	font-family: "BPG DedaEna Nonblock", sans-serif;	font-weight: 400;
+	font-style: normal;
+	font-size: 32px;
+	line-height: 45px;
+
+}
+
+.p3 {
+	width: 300px;
+	font-size: 32px;
+	 letter-spacing: 3px;
+	margin-right: 30px;
+	display: inline-block;
+	vertical-align: top;
+
+	font-family: "BPG Nuskha Modern", sans-serif;
+
+}
+
